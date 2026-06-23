@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global}
-    \entry{kye2026acevfi}{article}{useauthor=false}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{kye2026acevfi}{article}{useauthor=false}{}
       \name{author}{5}{}{%
         {{hash=b70745c760b74b9aba825959dd874eb0}{%
            family={Kye},
@@ -50,6 +50,7 @@
       \strng{authorbibnamehash}{e42e578024ed03a293ec928fb4808231}
       \strng{authornamehash}{e42e578024ed03a293ec928fb4808231}
       \strng{authorfullhash}{fb516466f85f91168064ef11b1594529}
+      \strng{authorfullhashraw}{fb516466f85f91168064ef11b1594529}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
@@ -63,7 +64,7 @@
       \verb https://arxiv.org/abs/2506.01061
       \endverb
     \endentry
-    \entry{huang2022}{article}{useauthor=false}
+    \entry{huang2022}{article}{useauthor=false}{}
       \name{author}{5}{}{%
         {{hash=038f0fdd7e236813f6a46ced7288f3c1}{%
            family={Huang},
@@ -94,6 +95,7 @@
       \strng{authorbibnamehash}{79950fdff458f555ccef9dda882756d4}
       \strng{authornamehash}{79950fdff458f555ccef9dda882756d4}
       \strng{authorfullhash}{38b1eb63e11fa723b6c94a4690094ad6}
+      \strng{authorfullhashraw}{38b1eb63e11fa723b6c94a4690094ad6}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
@@ -112,7 +114,7 @@
       \verb https://arxiv.org/abs/2011.06294
       \endverb
     \endentry
-    \entry{IFRNet2022}{inproceedings}{useauthor=false}
+    \entry{IFRNet2022}{inproceedings}{useauthor=false}{}
       \name{author}{4}{}{%
         {{hash=7833af6cd05924221d0d318a3954903b}{%
            family={Kong},
@@ -138,6 +140,7 @@
       \strng{authorbibnamehash}{cef0237481f48b9da7cd62ea90048cac}
       \strng{authornamehash}{cef0237481f48b9da7cd62ea90048cac}
       \strng{authorfullhash}{43342950a22b9185e5e307f97470147f}
+      \strng{authorfullhashraw}{43342950a22b9185e5e307f97470147f}
       \field{sortinit}{5}
       \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
@@ -153,7 +156,7 @@
       \verb https://arxiv.org/abs/2205.14620
       \endverb
     \endentry
-    \entry{ilg2017}{inproceedings}{useauthor=false}
+    \entry{ilg2017}{inproceedings}{useauthor=false}{}
       \name{author}{6}{}{%
         {{hash=54a838a4cbb16911e1878667c3e34da2}{%
            family={Ilg},
@@ -189,6 +192,7 @@
       \strng{authorbibnamehash}{f9d1dd84c3d1a4b848228bb31adae84a}
       \strng{authornamehash}{f9d1dd84c3d1a4b848228bb31adae84a}
       \strng{authorfullhash}{a0e4380fe522d967003cb3409f2446f5}
+      \strng{authorfullhashraw}{a0e4380fe522d967003cb3409f2446f5}
       \field{sortinit}{6}
       \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
@@ -204,7 +208,7 @@
       \verb https://arxiv.org/abs/1612.01925
       \endverb
     \endentry
-    \entry{sun2018}{inproceedings}{useauthor=false}
+    \entry{sun2018}{inproceedings}{useauthor=false}{}
       \name{author}{4}{}{%
         {{hash=bdb911c21c1d347276ba3753ba5a4118}{%
            family={Sun},
@@ -230,6 +234,7 @@
       \strng{authorbibnamehash}{f15d6a43e907a172c6237811f93abff7}
       \strng{authornamehash}{f15d6a43e907a172c6237811f93abff7}
       \strng{authorfullhash}{16f7050edc263bdd18cdcc562102a55f}
+      \strng{authorfullhashraw}{16f7050edc263bdd18cdcc562102a55f}
       \field{sortinit}{7}
       \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labeltitlesource}{title}
@@ -245,7 +250,7 @@
       \verb https://arxiv.org/abs/1709.02371
       \endverb
     \endentry
-    \entry{jiang2018}{inproceedings}{useauthor=false}
+    \entry{jiang2018}{inproceedings}{useauthor=false}{}
       \name{author}{6}{}{%
         {{hash=199bb51203651a61c1509f581bb23169}{%
            family={Jiang},
@@ -281,6 +286,7 @@
       \strng{authorbibnamehash}{4814bd7cb0a56c36b12654d0311d76ef}
       \strng{authornamehash}{4814bd7cb0a56c36b12654d0311d76ef}
       \strng{authorfullhash}{44de5744afe67a7dda07223fb94a74df}
+      \strng{authorfullhashraw}{44de5744afe67a7dda07223fb94a74df}
       \field{sortinit}{9}
       \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labeltitlesource}{title}
@@ -296,7 +302,7 @@
       \verb https://arxiv.org/abs/1712.00080
       \endverb
     \endentry
-    \entry{niklaus2017}{inproceedings}{}
+    \entry{niklaus2017}{inproceedings}{}{}
       \name{author}{3}{}{%
         {{hash=56ff8489e44f5f13ff9a0fb85bd61152}{%
            family={Niklaus},
@@ -316,10 +322,12 @@
       }
       \strng{namehash}{c5c571e59f562bb0eef265e3fdf817fa}
       \strng{fullhash}{c5c571e59f562bb0eef265e3fdf817fa}
+      \strng{fullhashraw}{c5c571e59f562bb0eef265e3fdf817fa}
       \strng{bibnamehash}{c5c571e59f562bb0eef265e3fdf817fa}
       \strng{authorbibnamehash}{c5c571e59f562bb0eef265e3fdf817fa}
       \strng{authornamehash}{c5c571e59f562bb0eef265e3fdf817fa}
       \strng{authorfullhash}{c5c571e59f562bb0eef265e3fdf817fa}
+      \strng{authorfullhashraw}{c5c571e59f562bb0eef265e3fdf817fa}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
@@ -336,7 +344,7 @@
       \verb https://openaccess.thecvf.com/content_cvpr_2017/html/Niklaus_Video_Frame_Interpolation_CVPR_2017_paper.html
       \endverb
     \endentry
-    \entry{giuliani2023calc}{inproceedings}{useauthor=false}
+    \entry{giuliani2023calc}{inproceedings}{useauthor=false}{}
       \name{author}{6}{}{%
         {{hash=422af48a775ffe958d5b9129fd76815f}{%
            family={Giuliani},
@@ -375,6 +383,7 @@
       \strng{authorbibnamehash}{1defda117aac49dfbe88ed2133d179d6}
       \strng{authornamehash}{1defda117aac49dfbe88ed2133d179d6}
       \strng{authorfullhash}{4eb64df1fb2a38e0cea3c1bd152a05f9}
+      \strng{authorfullhashraw}{4eb64df1fb2a38e0cea3c1bd152a05f9}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{title}
@@ -388,6 +397,147 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1109/ISM59092.2023.00014
+      \endverb
+    \endentry
+    \entry{ding2020}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=65421908d103183c48906d876ac5b4c6}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=dee28c042d16686718e09eeacc4ec2d3}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=cd6c1d35aed39fa11fcfba0d353120d6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=071228688c89a654d8f1b7ca8d022a6f}{%
+           family={Simoncelli},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi P.},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{e5db6daeb091d6290dd2b56189c99c8d}
+      \strng{authornamehash}{e5db6daeb091d6290dd2b56189c99c8d}
+      \strng{authorfullhash}{fed3ce62295e165035514522859cf34b}
+      \strng{authorfullhashraw}{fed3ce62295e165035514522859cf34b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{44}
+      \field{journaltitle}{IEEE Trans. Pattern Anal. Mach. Intell.}
+      \field{title}{Image Quality Assessment: Unifying Structure and Texture Similarity}
+      \field{year}{2022}
+      \field{number}{5}
+      \range{number}{1}
+      \field{pages}{2567\bibrangedash 2581}
+      \range{pages}{15}
+      \field{volume}{44}
+      \range{volume}{1}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2004.07728
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2004.07728
+      \endverb
+    \endentry
+    \entry{zhang2018}{inproceedings}{useauthor=false}{}
+      \name{author}{5}{}{%
+        {{hash=528b0708ec1bf9b1677b35261fac82bf}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=fac4f102e2cd5eff8aa7c73c21509cab}{%
+           family={Isola},
+           familyi={I\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=594b6331b2be8930dc794ac51c6de883}{%
+           family={Efros},
+           familyi={E\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4c294bc2cd3532756214a05294b1f1b1}{%
+           family={Shechtman},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4b23c12e2074cd54cb0da240d72f32c2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{1d775eae6db02d895a6cce72f9cf615f}
+      \strng{authornamehash}{1d775eae6db02d895a6cce72f9cf615f}
+      \strng{authorfullhash}{1ebb5ef2c15e6aa6941a6dc0d8746365}
+      \strng{authorfullhashraw}{1ebb5ef2c15e6aa6941a6dc0d8746365}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)}
+      \field{title}{The Unreasonable Effectiveness of Deep Features as a Perceptual Metric}
+      \field{year}{2018}
+      \field{pages}{586\bibrangedash 595}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1801.03924
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1801.03924
+      \endverb
+    \endentry
+    \entry{wang2004}{article}{useauthor=false}{}
+      \name{author}{4}{}{%
+        {{hash=cc4aadc875d7abdbaf96dfa4a83d8b77}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=6192fbf30c45211fdfc67652236bec72}{%
+           family={Bovik},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=84051ed6c4d99d3ccc763a9bfdfd28a8}{%
+           family={Sheikh},
+           familyi={S\bibinitperiod},
+           given={H.\bibnamedelimi R.},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=071228688c89a654d8f1b7ca8d022a6f}{%
+           family={Simoncelli},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi P.},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{3deddfd5334afe8de95e47549d6b5a86}
+      \strng{authornamehash}{3deddfd5334afe8de95e47549d6b5a86}
+      \strng{authorfullhash}{5404630126e6caa42a11bff978c2bbdf}
+      \strng{authorfullhashraw}{5404630126e6caa42a11bff978c2bbdf}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{13}
+      \field{journaltitle}{IEEE Trans. Image Process.}
+      \field{title}{Image Quality Assessment: From Error Visibility to Structural Similarity}
+      \field{year}{2004}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{600\bibrangedash 612}
+      \range{pages}{13}
+      \field{volume}{13}
+      \range{volume}{1}
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/TIP.2003.819861
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/TIP.2003.819861
       \endverb
     \endentry
   \enddatalist
