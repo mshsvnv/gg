@@ -1,0 +1,53 @@
+\documentclass{bmstu}
+\usepackage{pdfpages}
+\bibliography{parts/biblio}
+
+\setlist[enumerate]{label=\arabic*)}
+\setlist[itemize]{label=---}
+
+\usepackage{ragged2e}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{adjustbox}  % Добавить в преамбулу
+
+\usepackage{makecell}
+\renewcommand\theadalign{c} % Выравнивание по центру и низу
+\renewcommand\cellalign{bc}  % Выравнивание содержимого ячеек
+
+\begin{document}
+	
+	\makethesistitle
+		{Информатика и системы управления} % Название факультета
+		{Программное обеспечение ЭВМ и информационные технологии} % Название кафедры
+		{Сравнительный анализ методов оптимизации архитектуры IFRNet для интерполяции видеокадров с целью повышения вычислительной эффективности} % Тема работы
+		{} % Номер группы/ФИО студента (если авторов несколько, их необходимо разделить запятой)
+		{} % ФИО научного руководителя
+		{} % ФИО консультанта (необязательный аргумент; если консультантов несколько, их необходимо разделить запятой)
+		{ }
+	
+	% Новый титул из ворда
+%	\includepdf[pages=-]{title}
+	
+	\setcounter{page}{2}
+%	\include{parts/01-essay}
+	\maketableofcontents
+	%\cftsetindents{chapter}{\parindent}{12.5mm}
+	%\cftsetindents{section}{\parindent}{12.5mm}
+	%\cftsetindents{subsection}{\parindent}{12.5mm}
+	%\setlength{\cftbeforetoctitleskip}{-22pt}
+	%\setlength{\cftaftertoctitleskip}{0pt}
+	%\renewcommand{\cftaftertoctitle}{\hfill}
+	%\renewcommand{\contentsname}{\hfill\LARGE СОДЕРЖАНИЕ\hfill}
+	%\tableofcontents
+%	\include{parts/02-def}
+	%\include{parts/03-abbr}
+	\include{parts/04-intro}
+	\include{parts/05-analysis}
+	\include{parts/06-compare}
+	\include{parts/09-conclusion}
+	
+	\makebibliography
+	
+%	\include{parts/10-appendix}
+	
+\end{document}

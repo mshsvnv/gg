@@ -1,0 +1,396 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{kye2026acevfi}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=b70745c760b74b9aba825959dd874eb0}{%
+           family={Kye},
+           familyi={K\bibinitperiod},
+           given={Dahyeon},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ad3deeec67dc5fd66cc1b901500f8aff}{%
+           family={Roh},
+           familyi={R\bibinitperiod},
+           given={Changhyun},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c9a5d1b2a6e8782194b44006bfc316e0}{%
+           family={Ko},
+           familyi={K\bibinitperiod},
+           given={Sukhun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6ec989da7046e8f6a6d12a1bd84d9f4c}{%
+           family={Eom},
+           familyi={E\bibinitperiod},
+           given={Chanho},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4f135996fa6df9410d190a396bb3c3ab}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={Jihyong},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{e42e578024ed03a293ec928fb4808231}
+      \strng{authornamehash}{e42e578024ed03a293ec928fb4808231}
+      \strng{authorfullhash}{fb516466f85f91168064ef11b1594529}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Circuits and Systems for Video Technology}
+      \field{title}{AceVFI: A Comprehensive Survey of Advances in Video Frame Interpolation}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2506.01061
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2506.01061
+      \endverb
+    \endentry
+    \entry{huang2022}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=038f0fdd7e236813f6a46ced7288f3c1}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=6987c26bf5f9b6e119893b5d925c7b8c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6e0b8c931286902c73897ed334088c57}{%
+           family={Heng},
+           familyi={H\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3ed7429d8a6ce7442e58277ff315206b}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1af27b3e635e110c5c1f29c146a74e8d}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{79950fdff458f555ccef9dda882756d4}
+      \strng{authornamehash}{79950fdff458f555ccef9dda882756d4}
+      \strng{authorfullhash}{38b1eb63e11fa723b6c94a4690094ad6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{31}
+      \field{journaltitle}{IEEE Trans. Image Process.}
+      \field{title}{Real-Time Intermediate Flow Estimation for Video Frame Interpolation}
+      \field{year}{2022}
+      \field{pages}{145\bibrangedash 158}
+      \range{pages}{14}
+      \field{volume}{31}
+      \range{volume}{1}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2011.06294
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2011.06294
+      \endverb
+    \endentry
+    \entry{IFRNet2022}{inproceedings}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=7833af6cd05924221d0d318a3954903b}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5697a66ca4254743e8f12262bf8d99cc}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=30ff3ef4a89e0c6777f480da5386b053}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=9a75ee293f2555f40976345739087998}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{cef0237481f48b9da7cd62ea90048cac}
+      \strng{authornamehash}{cef0237481f48b9da7cd62ea90048cac}
+      \strng{authorfullhash}{43342950a22b9185e5e307f97470147f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)}
+      \field{title}{IFRNet: Intermediate Feature Refine Network for Video Frame Interpolation}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2205.14620
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2205.14620
+      \endverb
+    \endentry
+    \entry{ilg2017}{inproceedings}{useauthor=false}
+      \name{author}{6}{}{%
+        {{hash=54a838a4cbb16911e1878667c3e34da2}{%
+           family={Ilg},
+           familyi={I\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=03a7b582f40c149d7b1e30ad3d6d1c1b}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8f958be904ad12e45b30fd3363ae876e}{%
+           family={Saikia},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a6aa487dbde2e619551526710da1e411}{%
+           family={Keuper},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a2592de90eb2a31bb0c1d780a8c05a72}{%
+           family={Dosovitskiy},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6ea4130678efce0f25d7dbea53024f14}{%
+           family={Brox},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{f9d1dd84c3d1a4b848228bb31adae84a}
+      \strng{authornamehash}{f9d1dd84c3d1a4b848228bb31adae84a}
+      \strng{authorfullhash}{a0e4380fe522d967003cb3409f2446f5}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)}
+      \field{title}{FlowNet 2.0: Evolution of optical flow estimation with deep networks}
+      \field{year}{2017}
+      \field{pages}{2462\bibrangedash 2470}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1612.01925
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1612.01925
+      \endverb
+    \endentry
+    \entry{sun2018}{inproceedings}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=bdb911c21c1d347276ba3753ba5a4118}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4a41a8c896da0124ca40ccc8b084022b}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bf33aa4e357ce5563dc07035be3b015a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c54c912f2dc097cb499598d5bda1a7a2}{%
+           family={Kautz},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{f15d6a43e907a172c6237811f93abff7}
+      \strng{authornamehash}{f15d6a43e907a172c6237811f93abff7}
+      \strng{authorfullhash}{16f7050edc263bdd18cdcc562102a55f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)}
+      \field{title}{PWC-Net: CNNs for optical flow using pyramid, warping, and cost volume}
+      \field{year}{2018}
+      \field{pages}{8934\bibrangedash 8943}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1709.02371
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1709.02371
+      \endverb
+    \endentry
+    \entry{jiang2018}{inproceedings}{useauthor=false}
+      \name{author}{6}{}{%
+        {{hash=199bb51203651a61c1509f581bb23169}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=bdb911c21c1d347276ba3753ba5a4118}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0eef9ce00bbc04bcc6dc5d0a9b8fff73}{%
+           family={Jampani},
+           familyi={J\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=7148de383baa80de3a6b13dd22492adc}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dca18e646b008d22fd7f4147756d05e4}{%
+           family={Learned-Miller},
+           familyi={L\bibinithyphendelim M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c54c912f2dc097cb499598d5bda1a7a2}{%
+           family={Kautz},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{4814bd7cb0a56c36b12654d0311d76ef}
+      \strng{authornamehash}{4814bd7cb0a56c36b12654d0311d76ef}
+      \strng{authorfullhash}{44de5744afe67a7dda07223fb94a74df}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)}
+      \field{title}{Super SloMo: High quality estimation of multiple intermediate frames for video interpolation}
+      \field{year}{2018}
+      \field{pages}{9000\bibrangedash 9008}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1712.00080
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1712.00080
+      \endverb
+    \endentry
+    \entry{niklaus2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=56ff8489e44f5f13ff9a0fb85bd61152}{%
+           family={Niklaus},
+           familyi={N\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e7c7c4166bfee7f76d921f2d6c7a9e86}{%
+           family={Mai},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5f5501ee3881a72f69061a6d21e20416}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{c5c571e59f562bb0eef265e3fdf817fa}
+      \strng{fullhash}{c5c571e59f562bb0eef265e3fdf817fa}
+      \strng{bibnamehash}{c5c571e59f562bb0eef265e3fdf817fa}
+      \strng{authorbibnamehash}{c5c571e59f562bb0eef265e3fdf817fa}
+      \strng{authornamehash}{c5c571e59f562bb0eef265e3fdf817fa}
+      \strng{authorfullhash}{c5c571e59f562bb0eef265e3fdf817fa}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR)}
+      \field{title}{Video frame interpolation via adaptive convolution}
+      \field{year}{2017}
+      \field{pages}{670\bibrangedash 679}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://openaccess.thecvf.com/content_cvpr_2017/html/Niklaus_Video_Frame_Interpolation_CVPR_2017_paper.html
+      \endverb
+      \verb{url}
+      \verb https://openaccess.thecvf.com/content_cvpr_2017/html/Niklaus_Video_Frame_Interpolation_CVPR_2017_paper.html
+      \endverb
+    \endentry
+    \entry{giuliani2023calc}{inproceedings}{useauthor=false}
+      \name{author}{6}{}{%
+        {{hash=422af48a775ffe958d5b9129fd76815f}{%
+           family={Giuliani},
+           familyi={G\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=303c3526d52f8bddb370204ba94525a8}{%
+           family={You},
+           familyi={Y\bibinitperiod},
+           given={Hongjie},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d2baca74d236db371cedca2cd82c326c}{%
+           family={Koyuncu},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi Burakhan},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=eb7debb29ea504a84a8e132686cc13a0}{%
+           family={Boev},
+           familyi={B\bibinitperiod},
+           given={Atanas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2e5428d03e2621a7ae7653b4a36b7b48}{%
+           family={Alshina},
+           familyi={A\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7c7569acba22e44ee3ede93b0cdf2dde}{%
+           family={Steinbach},
+           familyi={S\bibinitperiod},
+           given={Eckehard},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{authorbibnamehash}{1defda117aac49dfbe88ed2133d179d6}
+      \strng{authornamehash}{1defda117aac49dfbe88ed2133d179d6}
+      \strng{authorfullhash}{4eb64df1fb2a38e0cea3c1bd152a05f9}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 IEEE International Symposium on Multimedia (ISM)}
+      \field{title}{{CALC-VFS}: Content-adaptive low-complexity Video Frame Synthesis}
+      \field{year}{2023}
+      \field{pages}{57\bibrangedash 61}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/ISM59092.2023.00014
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/ISM59092.2023.00014
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

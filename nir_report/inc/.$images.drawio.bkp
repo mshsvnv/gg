@@ -1,0 +1,15 @@
+<mxfile host="Electron">
+  <diagram name="Страница-1" id="wA0AHIsxmvqwDMWfu8UW">
+    <mxGraphModel dx="934" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Barn-yuv.png/250px-Barn-yuv.png&quot;&gt;" link="&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Barn-yuv.png/250px-Barn-yuv.png&quot;&gt;" id="riJHO0GG1XS1SDIltv08-1">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="30" x="20" y="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

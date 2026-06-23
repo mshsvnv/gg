@@ -77,7 +77,7 @@ class Encoder(nn.Module):
         f3 = self.pyramid3(f2)
         f4 = self.pyramid4(f3)
         return f1, f2, f3, f4
-
+    
 
 class Decoder4(nn.Module):
     def __init__(self):
