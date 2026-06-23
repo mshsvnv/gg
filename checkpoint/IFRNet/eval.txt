@@ -1,0 +1,4 @@
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /usr/local/lib/python3.12/dist-packages/lpips/weights/v0.1/vgg.pth
+Загрузка весов из: checkpoint/IFRNet/IFRNet_latest.pth
+Avg PSNR: 36.053 SSIM: 0.9813, LPIPS: 0.0503, DISTS: 0.0342, VIF: 0.9371

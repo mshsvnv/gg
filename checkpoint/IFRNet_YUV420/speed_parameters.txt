@@ -1,0 +1,8 @@
+Calculating FLOPs and Params...
+[INFO] Register count_convNd() for <class 'torch.nn.modules.conv.Conv2d'>.
+[INFO] Register count_prelu() for <class 'torch.nn.modules.activation.PReLU'>.
+[INFO] Register zero_ops() for <class 'torch.nn.modules.container.Sequential'>.
+[INFO] Register count_convNd() for <class 'torch.nn.modules.conv.ConvTranspose2d'>.
+FLOPs: 122.682G, Params (by thop): 996.846K, for image: 1920x1088
+Parameters (manual count): 1.00M
+Inference Time: 14.19ms / frame

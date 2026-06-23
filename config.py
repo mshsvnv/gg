@@ -1,0 +1,1 @@
+VIMEO_DIR = '/home/shared/vimeo_triplet'
